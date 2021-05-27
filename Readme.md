@@ -1,7 +1,7 @@
 # Only Linux systems are supported for now
->**Note:** This tutorial assumes you have _.bashrc_ file in you _~/_ or _/home_ directory. And the kubernetes context file inside _~/.kube' with name context. you can change name of your file and location in the script under _'/src'_.
+>**Note:** This tutorial assumes you have _.bashrc_ file in your _~/_ or _/home_ directory. And the kubernetes context file inside _~/.kube' with name context. You can change name of your file and location in the script under _'/src/kube-prompt.sh'_.
 
-Go to directory _'/src'_. There, you will find a file name _kubeprompt.sh_ put this file in your _~/_ or _/home_ directory of linux.
+Go to directory _'/src'_. There, you will find a file name _kubeprompt.sh_. Put this file into your _~/_ or _/home_ directory of linux.
 Also, look for _.bashrc.sh_ file in your _~/_ or _/home_ directory. Open this file and paste following contents at the 
 end of the file.
 
